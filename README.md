@@ -1,4 +1,5 @@
-# java-masterdeveloper-softblue
+# Formação Java Master Developer (Java | Spring | React) - Softblue
+## Programa de estudos dividido em 15 semanas
 
 # Semana 1
 3 Conceitos de Lógica de Programação & Algoritmos<br />
