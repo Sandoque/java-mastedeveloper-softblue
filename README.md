@@ -2,7 +2,8 @@
 ## Programa de estudos dividido em 15 semanas
 
 # Semana 1 (concluída)
-### 3.    Conceitos de Lógica de Programação & Algoritmos<br />
+### 3.    Conceitos de Lógica de Programação & Algoritmos <br />
+
 3.1  Introdução à lógica de programação [ 00:17:30 ]<br />
 3.2  Como os programas são executados no computador [ 00:21:23 ]<br />
 3.3  Trabalhando com variáveis em Java [ 00:25:39 ]<br />
