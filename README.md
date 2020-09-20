@@ -30,3 +30,4 @@
 4.2 Criando o projeto do Jogo da Velha [ 00:28:23 ]<br />
 4.3 Definindo as classes Board, Player e Move [ 00:22:05 ]<br />
 4.4 Criando as classes Board, Player e Move [ 00:22:21 ]<br />
+4.5 A interação com a interface gráfica [ 00:18:29 ]<br />
