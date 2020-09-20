@@ -1,5 +1,7 @@
 package br.com.softblue.tictactoe.core;
 
+import br.com.softblue.tictactoe.Constants;
+
 public class Game {
 	
 	Board board = new Board();
