@@ -6,19 +6,19 @@ public class Board {
 	
 	char [][] matrix = new char[Constants.BOARD_SIZE][Constants.BOARD_SIZE];
 	
-	void clear() {
+	public void clear() {
 		
 	}
 	
-	void print () {
+	public void print () {
 		
 	}
 	
-	boolean isFull() {
+	public boolean isFull() {
 		return false;
 	}
 	
-	void play() {
+	public void play() {
 		
 	}
 
